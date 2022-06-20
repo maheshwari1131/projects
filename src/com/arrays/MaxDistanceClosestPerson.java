@@ -19,7 +19,7 @@ package com.arrays;
  * Output: 2
  * Explanation:
  * If Alex sits in the second open seat (i.e. seats[2]), then the closest person has distance 2.
- * If Alex sits in any other open seat, the closest person has distance 1.
+  the closest person has distance 1.
  * Thus, the maximum distance to the closest person is 2.
  */
 public class MaxDistanceClosestPerson {
